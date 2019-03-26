@@ -37,7 +37,7 @@ https://lup.lub.lu.se/student-papers/search/publication/8084520
 https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
 
 
-##### Lund University Human Factors & Systemns Safety programme
+##### Lund University Human Factors & Systems Safety programme
 http://www.humanfactors.lth.se/
 
 
