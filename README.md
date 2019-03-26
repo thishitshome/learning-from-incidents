@@ -29,6 +29,10 @@ https://lup.lub.lu.se/student-papers/search/publication/2971193
 https://lup.lub.lu.se/student-papers/search/publication/8966930
 
 
+##### Trade-offs Under Pressure - John Allspaw
+https://lup.lub.lu.se/student-papers/search/publication/8084520
+
+
 ##### Debriefing Facilitation Guide
 https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf
 
