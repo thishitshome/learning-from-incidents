@@ -55,7 +55,7 @@ Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), an
 'Recovery > prevention' - Aaron Blohowiak (@aaronblohowiak)
 
 
-Much of the groundwork of resilience engineering in software has been introduced by John Allspaw (@allspaw), Richard Cook (@ri_cook), David Woods, and Johan Bergstrom.
+Much of the groundwork of resilience engineering in software has been introduced by John Allspaw (@allspaw), Richard Cook (@ri_cook), David Woods (@ddwoods2), and Johan Bergstrom (@bergstrom_johan).
 
 - https://www.devopsdays.org/events/2018-seattle/program/john-allspaw/
 - https://m.youtube.com/watch?v=2S0k12uZR14
