@@ -90,6 +90,6 @@ Many inspirations from the Greater Than Code podcast
 - http://www.greaterthancode.com
 
 
-Diagrams/models based on work from Sidney Dekker (@sidneydekkercom), Erik Hollnagel and Kelvin Genn (@kelvingenn)
+Diagrams/models based on work from Sidney Dekker (@sidneydekkercom), Erik Hollnagel, and Kelvin Genn (@kelvingenn)
 - http://www.safetydifferently.com/why-do-things-go-right/
 
