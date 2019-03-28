@@ -1,4 +1,6 @@
-# learning-from-incidents
+# References and materials for "How Did Things Go Right? Learning More from Incidents"
+
+https://www.usenix.org/conference/srecon19americas/presentation/kitchens
 
 http://resiliencepapers.club
 
@@ -46,7 +48,7 @@ http://csel.org.ohio-state.edu/
 
 
 # Attributions, Thanks, and Inspirations
-If only every conference talk could be prefaced with "almost all this is none of my original ideas."  
+If only every conference talk could be prefaced with "almost all this is none of my original thoughts." :)
 
 
 Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), and Ashish Jotwani.
@@ -69,11 +71,7 @@ Much of the groundwork of resilience engineering in software has been introduced
 'failure is no longer interesting' has got to be something Todd Conklin has said before.
 
 
-
-
 The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
-
-
 
 
 'probably fine' and many dots connected by Andrew Clay Shafer (@littleidea)
@@ -81,4 +79,8 @@ The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
 
 
 Demonstrating the inefficiencies of blameful language by Matty Stratton (@mattstratton)
+
+
+Diagrams/Models based on work from Sidney Dekker, Erik Hollnagel and Kelvin Genn
+- http://www.safetydifferently.com/why-do-things-go-right/
 
