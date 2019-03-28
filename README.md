@@ -71,7 +71,7 @@ Much of the groundwork of resilience engineering in software has been introduced
 'failure is no longer interesting' has got to be something Todd Conklin has said before.
 
 
-The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
+The bit on 'a perfect storm' was paraphrased from Andrea Baker (@thehopmentor).
 
 
 'probably fine' and many dots connected by Andrew Clay Shafer (@littleidea)
