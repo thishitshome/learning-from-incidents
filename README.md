@@ -78,12 +78,16 @@ The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
 - There is no Talent Shortage https://www.youtube.com/watch?v=P_sWGl7MzhU
 
 
-Demonstrating the inefficiencies of blameful language by Matty Stratton (@mattstratton)
+Comments on demonstrating the inefficiencies of blameful language from Matty Stratton (@mattstratton)
 - www.arresteddevops.com
 
 
-Any talk Bridget Kromhout has ever given but especially 'Containers Will Not Fix Your Broken Culture'
+Any talk Bridget Kromhout has ever given, but especially 'Containers Will Not Fix Your Broken Culture'
 - https://m.youtube.com/watch?v=hALDyVBVVz0
+
+
+Many inspirations from the Greater Than Code podcast 
+- http://www.greaterthancode.com
 
 
 Diagrams/models based on work from Sidney Dekker, Erik Hollnagel and Kelvin Genn
