@@ -43,3 +43,42 @@ http://www.humanfactors.lth.se/
 
 ##### Cognitive Systems Engineering Laboratory at Ohio State University
 http://csel.org.ohio-state.edu/
+
+
+# Attributions, Thanks, and Inspirations
+If only every conference talk could be prefaced with "almost all this is none of my original ideas."  
+
+
+Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), and Ashish Jotwani.
+
+
+'Recovery > prevention' - Aaron Blohowiak (@aaronblohowiak)
+
+
+Much of the groundwork of resilience engineering in software has been introduced by John Allspaw (@allspaw), Richard Cook (@ri_cook), David Woods, and Johan Bergstrom.
+
+- https://www.devopsdays.org/events/2018-seattle/program/john-allspaw/
+- https://m.youtube.com/watch?v=2S0k12uZR14
+- https://m.youtube.com/watch?v=7STcaWjJoww
+- https://m.youtube.com/watch?v=Pb_zYs8G6Co
+
+
+"The nines don't matter if users aren't happy" - Charity Majors (@mipsytipsy)
+
+
+'failure is no longer interesting' has got to be something Todd Conklin has said before.
+
+
+
+
+The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
+
+
+
+
+'probably fine' and many dots connected by Andrew Clay Shafer (@littleidea)
+- There is no Talent Shortage https://www.youtube.com/watch?v=P_sWGl7MzhU
+
+
+Demonstrating the inefficiencies of blameful language by Matty Stratton (@mattstratton)
+
