@@ -79,8 +79,13 @@ The bit on 'a perfect storm' was paraphrased from Andrea Baker (The HOP Mentor).
 
 
 Demonstrating the inefficiencies of blameful language by Matty Stratton (@mattstratton)
+- www.arresteddevops.com
 
 
-Diagrams/Models based on work from Sidney Dekker, Erik Hollnagel and Kelvin Genn
+Any talk Bridget Kromhout has ever given but especially 'Containers Will Not Fix Your Broken Culture'
+- https://m.youtube.com/watch?v=hALDyVBVVz0
+
+
+Diagrams/models based on work from Sidney Dekker, Erik Hollnagel and Kelvin Genn
 - http://www.safetydifferently.com/why-do-things-go-right/
 
