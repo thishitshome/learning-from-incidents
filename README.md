@@ -82,7 +82,7 @@ Comments on demonstrating the inefficiencies of blameful language from Matty Str
 - www.arresteddevops.com
 
 
-Any talk Bridget Kromhout has ever given, but especially 'Containers Will Not Fix Your Broken Culture'
+Any talk Bridget Kromhout (@bridgetkromhout) has ever given, but especially 'Containers Will Not Fix Your Broken Culture'
 - https://m.youtube.com/watch?v=hALDyVBVVz0
 
 
@@ -90,6 +90,6 @@ Many inspirations from the Greater Than Code podcast
 - http://www.greaterthancode.com
 
 
-Diagrams/models based on work from Sidney Dekker, Erik Hollnagel and Kelvin Genn
+Diagrams/models based on work from Sidney Dekker , Erik Hollnagel and Kelvin Genn
 - http://www.safetydifferently.com/why-do-things-go-right/
 
