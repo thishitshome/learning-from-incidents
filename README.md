@@ -51,7 +51,7 @@ http://csel.org.ohio-state.edu/
 If only every conference talk could be prefaced with "almost all of this is none of my original thoughts." :)
 
 
-Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), and Ashish Jotwani.
+Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), Ashish Jotwani, and Dave Hahn (@relix42).
 
 
 'Recovery > prevention' - Aaron Blohowiak (@aaronblohowiak)
