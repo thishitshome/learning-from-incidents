@@ -48,7 +48,7 @@ http://csel.org.ohio-state.edu/
 
 
 # Attributions, Thanks, and Inspirations
-If only every conference talk could be prefaced with "almost all this is none of my original thoughts." :)
+If only every conference talk could be prefaced with "almost all of this is none of my original thoughts." :)
 
 
 Thanks to my colleagues Nora Jones (@nora_js), Lorin Hochstein (@lhochstein), and Ashish Jotwani.
