@@ -18,7 +18,7 @@ I want us to go beyond the fashionability of SRE and really think about the thin
 
 
 #### Should we stop using SLOs and Error Budgets?
-No, they’re super useful! They’ve transformed what we do and how we think about reliability! But they aren’t designed to address every problem. There are a lot of weak signals on the human side of reliability that we can’t detect this way, and we should be paying attention to those by compassionately talking with people and interviewing them.
+No, they’re super useful! They’ve transformed what we do and how we think about reliability! However, they aren’t designed to address every problem. There are a lot of weak signals on the human side of reliability that we can’t detect this way, and we should be paying attention to those by compassionately talking with people and interviewing them.
 
 
 #### Should we stop measuring availability?
