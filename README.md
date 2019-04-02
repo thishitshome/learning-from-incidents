@@ -4,7 +4,7 @@ https://www.usenix.org/conference/srecon19americas/presentation/kitchens
 # Thanks so much for your interest in this presentation! 
 I hope to cover some of the nuance of the content here to balance out what might at first glance seem provocative.
 
-It’s really hard to introduce these concepts without sounding dogmatic!  
+It’s really hard to introduce these concepts without sounding dogmatic.  
 It’s really easy to interpret this stuff as “We’re all doing it wrong and need to throw out everything!”
 
 That’s not the point of this talk! What I want to point out is that the tools and methods we have aren’t designed to solve every problem.
@@ -19,7 +19,7 @@ I want us to go beyond the fashionability of SRE and really think about the thin
 
 
 #### Should we stop using SLOs and Error Budgets?
-No, they’re super useful! They’ve transformed what we do and how we think about reliability! However, they aren’t designed to address every problem. There are a lot of weak signals on the human side of reliability that we can’t detect this way, and we should be paying attention to those by compassionately talking with people and interviewing them.
+No, they’re super useful! They’ve transformed what we do and how we think about reliability. However, they aren’t designed to address every problem. There are a lot of weak signals on the human side of reliability that we can’t detect this way, and we should be paying attention to those by compassionately talking with people and interviewing them.
 
 
 #### Should we stop measuring availability?
