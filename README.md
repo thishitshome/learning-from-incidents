@@ -11,7 +11,7 @@ That’s not the point of this talk! What I want to point out is that the tools 
 
 And that’s ok! There is no panacea.
 
-What I want to point out is how we can start to look at the pitfalls and blind spots that often go ignored in incredibly subtle ways. We need to find the stuff that’s actually making us better, and highlight those things. This is different for every organization which is what makes it so hard to talk about.
+What I want to point out is how we can start to look at the pitfalls and blind spots that often go ignored in incredibly subtle ways. We need to find the stuff that’s actually making us better and highlight those things. This is different for every organization which is what makes it so hard to talk about.
 
 The point of this talk is to encourage a holistic view of incidents (and when we aren’t having incidents). BOTH failure and success and everything in between that happens during normal, everyday performance.
 
