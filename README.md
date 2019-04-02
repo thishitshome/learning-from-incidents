@@ -1,39 +1,31 @@
-Thanks so much for your interest in this presentation! I hope to cover some of the nuance of the content to balance out what might at first glance seem provocative.
-
+# Thanks so much
+for your interest in this presentation! I hope to cover some of the nuance of the content to balance out what might at first glance seem provocative.
 
 It’s really hard to introduce these concepts without sounding dogmatic! It’s really easy to interpret this stuff as “We’re all doing it wrong and need to throw out everything!”
 
-
 That’s not the point of this talk! What I want to point out is that the tools and methods we have aren’t designed to solve every problem.
-
 
 And that’s ok! There is no panacea.
 
-
-What I want to point out is how we can start to look at the pitfalls and blind spots that often go ignored in incredibly subtle ways.
-
-
-We need to find the stuff that’s actually making us better, and highlight those things. This is different for every organization which is what makes it so hard to talk about.
-
+What I want to point out is how we can start to look at the pitfalls and blind spots that often go ignored in incredibly subtle ways. We need to find the stuff that’s actually making us better, and highlight those things. This is different for every organization which is what makes it so hard to talk about.
 
 The point of this talk is to encourage a holistic view of incidents (and when we aren’t having incidents). BOTH failure and success and everything in between that happens during normal, everyday performance.
-
 
 I want us to go beyond the fashionability of SRE and really think about the things we’re doing all the time that contribute to reliability which are often invisible.
 
 
-###### Should we stop using SLOs and Error Budgets?
+#### Should we stop using SLOs and Error Budgets?
 No, they’re super useful! They’ve transformed what we do and how we think about reliability! But they aren’t designed to address every problem. There are a lot of weak signals on the human side of reliability that we can’t detect this way, and we should be paying attention to those by compassionately talking with people and interviewing them.
 
 
-###### Should we stop measuring availability?
+#### Should we stop measuring availability?
 No! Measuring availability can tell us a lot, but *reporting* on it at a product level can facilitate some pretty nasty incentives that ironically end up harming availability in the long term. 
 
 
 Where measuring availability becomes really useful is between services behind the edge. We interact with software to form a sociotechnical system. Let’s say there are five services in a call span—each of those availability numbers is the start of a conversation about expectations between teams and services.
 
 
-###### Should we stop creating action items during postmortems?
+#### Should we stop creating action items during postmortems?
 No, but know that action items are not the point of doing incident investigations. Learning is the goal! Don’t incentivize the number of action items. Incentivize people working together to share expertise and learn.
 
 
