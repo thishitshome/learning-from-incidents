@@ -1,8 +1,8 @@
 https://www.usenix.org/conference/srecon19americas/presentation/kitchens
 
 
-# Thanks so much
-for your interest in this presentation! I hope to cover some of the nuance of the content here to balance out what might at first glance seem provocative.
+# Thanks so much for your interest in this presentation! 
+I hope to cover some of the nuance of the content here to balance out what might at first glance seem provocative.
 
 It’s really hard to introduce these concepts without sounding dogmatic! It’s really easy to interpret this stuff as “We’re all doing it wrong and need to throw out everything!”
 
