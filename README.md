@@ -1,6 +1,5 @@
 https://www.usenix.org/conference/srecon19americas/presentation/kitchens
 
-
 # Thanks so much for your interest in this presentation! 
 I hope to cover some of the nuance of the content here to balance out what might at first glance seem provocative.
 
@@ -23,8 +22,7 @@ No, they’re super useful! They’ve transformed what we do and how we think ab
 
 
 #### Should we stop measuring availability?
-No! Measuring availability can tell us a lot, but *reporting* on it at a product level can facilitate some pretty nasty incentives that ironically end up harming availability in the long term. 
-
+No! Measuring availability can tell us a lot, but **reporting** on it at a product level can facilitate some pretty nasty incentives that ironically end up harming availability in the long term. Explore the different dimensions that go into creating the numbers, unearth the qualitative measures that cannot be represented, and make the reports about that stuff.  
 
 Where measuring availability becomes really useful is between services behind the edge. We interact with software to form a sociotechnical system. Let’s say there are five services in a call span—each of those availability numbers is the start of a conversation about expectations between teams and services.
 
