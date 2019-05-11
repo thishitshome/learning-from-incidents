@@ -37,6 +37,8 @@ No, but know that action items are not the point of doing incident investigation
 
 http://resiliencepapers.club
 
+http://hophub.org
+
 http://safetydifferently.com
 
 https://www.snafucatchers.com
