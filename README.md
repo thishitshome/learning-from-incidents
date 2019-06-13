@@ -1,5 +1,3 @@
-https://www.usenix.org/conference/srecon19americas/presentation/kitchens
-
 # Thanks so much for your interest in this presentation! 
 I hope to cover some of the nuance of the content here to balance out what might at first glance seem provocative.
 
@@ -31,6 +29,9 @@ Where measuring availability becomes really useful is between services behind th
 No, but know that action items are not the point of doing incident investigations. Learning is the goal! Don’t incentivize the number of action items. Incentivize people working together to share expertise and learn.
 
 
+https://www.usenix.org/conference/srecon19americas/presentation/kitchens
+
+https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/78020
 
 
 # References and materials for "How Did Things Go Right? Learning More from Incidents"
@@ -127,4 +128,3 @@ Many inspirations from the Greater Than Code podcast
 
 Diagrams/models based on work from Sidney Dekker (@sidneydekkercom), Erik Hollnagel, and Kelvin Genn (@kelvingenn)
 - http://www.safetydifferently.com/why-do-things-go-right/
-
