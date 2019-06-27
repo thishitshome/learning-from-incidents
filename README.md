@@ -33,6 +33,8 @@ https://www.usenix.org/conference/srecon19americas/presentation/kitchens
 
 https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/78020
 
+https://qconnewyork.com/ny2019/presentation/how-did-things-go-right-learning-more-incidents
+
 
 # References and materials for "How Did Things Go Right? Learning More from Incidents"
 
